@@ -1,13 +1,3 @@
-KOA2
-
-https://www.npmjs.com/package/koa2
-
-
-Adonis
-
-http://www.adonisjs.com/docs/3.2/installation#_creating_new_project
-
-
-Sailsjs
-
-http://sailsjs.com/get-started
+First run install.sh
+Then run run.sh
+**Note**: As Adonis need to be installed globally, you may have to run scripts with `sudo`.
