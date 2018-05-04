@@ -3,8 +3,8 @@ This page contains benchmark report conducted by other users on different machin
 1. Following benchmark was conducted by [Extarys](https://github.com/Extarys)
 ```
 Machine detail: Made on a Ryzen 1800X @ 4.00 GHz with 32 Gb of RAM.
-Node: v9.1.1
-npm : ?
+Node: v9.11.1
+npm : 6.0
 ```
 
 ab -k -n 50000 -c 100 -t 20 http://127.0.0.1:8095
